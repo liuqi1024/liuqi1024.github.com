@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "追赶文艺范儿：使用jekyll + github写作"
-description: ""
+summary: "不需要搭建独立的服务器空间，不需要学会配置LAMP环境，不担心写过的东西会丢失，不需要在写作的时候关心页面的排版和样式，只写出你想写出的内容，简约，清新，如果你需要这样的创作环境，那么开始使用jekyll并且把他发布在github上吧。"
 category: jekyll
 tags: [jekyll, github, blog]
 ---
