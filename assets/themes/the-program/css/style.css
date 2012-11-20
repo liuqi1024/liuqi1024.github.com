@@ -719,12 +719,26 @@ pre {
   margin-left: 0;
   margin-right: 0;
 }
-.unit-article p code,
+/*.unit-article p code,
 .unit-article li code {
   padding: 2px 5px;
   white-space: nowrap;
   background-color: #fff04a;
+}*/
+/*add by liuqi*/
+.unit-article p code,
+.unit-article li code {
+	background-color: #000000;
+	border-radius: 10px 10px 10px 10px;
+	color: white;
+	font-family: menlo,monospace;
+	font-style: normal;
+	padding: 5px 15px;
+	white-space: nowrap;
 }
+
+
+
 .unit-article img {
   display: block;
   margin-left: auto;
